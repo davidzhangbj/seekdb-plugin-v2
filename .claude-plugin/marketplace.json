@@ -7,7 +7,7 @@
       {
         "name": "seekdb-plugin",
         "source": "./seekdb-plugin",
-        "description": "Add OceanBase seekDB documentation references to your project's AI docs (CLAUDE.md, AGENTS.md, or Cursor rules). Provides access to seekDB best practices, SQL syntax, Python SDK, vector search, hybrid search, and AI functions - enabling smarter AI assistance for seekDB development."
+        "description": "Provide seekDB documentation to your project. Provides access to seekDB best practices, SQL syntax, Python SDK, vector search, hybrid search, and AI functions - enabling smarter AI assistance for seekDB development."
       }
     ]
   }
