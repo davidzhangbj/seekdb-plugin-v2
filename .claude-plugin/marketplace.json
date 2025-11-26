@@ -1,5 +1,8 @@
 {
     "name": "seekdb",
+    "owner": {
+      "name": "David Zhang"
+    },
     "plugins": [
       {
         "name": "seekdb-plugin",

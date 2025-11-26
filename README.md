@@ -104,14 +104,14 @@ seekdb-skills/
 
 To add a new Skill for SeekDB:
 
-1. Create a new Skill folder under the `packages/` directory
+1. Create a new Skill folder under the `seekdb-plugin/skills` directory
 2. Add a `SKILL.md` file defining the Skill's functionality and usage
 3. Add necessary support files and example code
 4. Update this README document
 
 ### Updating Documentation
 
-The documentation content for seekdb-docs is located in the `packages/seekdb-docs/zh-CN/` directory and can be synchronized based on updates to the SeekDB official documentation.
+The documentation content for seekdb-docs is located in the `seekdb-plugin/skills/seekdb-docs/official-docs` directory and can be synchronized based on updates to the SeekDB official documentation.
 
 ## 📋 About Agent Skills
 
