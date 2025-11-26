@@ -5,13 +5,13 @@ This category contains practical tutorials and sample applications for the SeekD
 ## File List
 
 ### Create AI Application Examples
-- **File Path**: `zh-CN/500.tutorials/100.create-ai-app-demo/100.build-kb-in-seekdb.md`
+- **File Path**: `official-docs/500.tutorials/100.create-ai-app-demo/100.build-kb-in-seekdb.md`
   - **Description**: Build a knowledge base in SeekDB
 
-- **File Path**: `zh-CN/500.tutorials/100.create-ai-app-demo/300.build-multi-model-application-based-on-oceanbase.md`
+- **File Path**: `official-docs/500.tutorials/100.create-ai-app-demo/300.build-multi-model-application-based-on-oceanbase.md`
   - **Description**: Build a multi-model application based on OceanBase
 
-- **File Path**: `zh-CN/500.tutorials/100.create-ai-app-demo/400.build-image-search-app-in-seekdb.md`
+- **File Path**: `official-docs/500.tutorials/100.create-ai-app-demo/400.build-image-search-app-in-seekdb.md`
   - **Description**: Build an image search application in SeekDB
 
 ## Summary

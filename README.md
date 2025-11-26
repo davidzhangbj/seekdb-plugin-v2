@@ -32,7 +32,7 @@ Provides a complete SeekDB database documentation knowledge base with document q
   - Reference Documentation
 
 **Related Documentation:**
-- [SKILL.md](./packages/seekdb-docs/SKILL.md)
+- [SKILL.md](seekdb-plugin/skills/seekdb-docs/SKILL.md)
 
 ## 🚀 Quick Start
 
@@ -45,11 +45,11 @@ Provides a complete SeekDB database documentation knowledge base with document q
 
 - Add seekDB's marketplace
 ```bash
-/plugin marketplace add davidzhangbj/seekdb-claude-skill-plugin
+/plugin marketplace add davidzhangbj/seekdb-plugin-v2
 ```
 - Install plugins in Claude Code
 ```bash
-/plugin install seekdb-plugin@seekdb-marketplace
+/plugin install seekdb-plugin@seekdb
 ```
 
 ## 💡 Usage Examples

@@ -5,58 +5,58 @@ This category contains deployment, operations, and reference documentation for t
 ## File List
 
 ### Deployment
-- **File Path**: `zh-CN/400.guides/400.deploy/50.deploy-overview.md`
+- **File Path**: `official-docs/400.guides/400.deploy/50.deploy-overview.md`
   - **Description**: Deployment overview
 
-- **File Path**: `zh-CN/400.guides/400.deploy/100.prepare-servers.md`
+- **File Path**: `official-docs/400.guides/400.deploy/100.prepare-servers.md`
   - **Description**: Prepare servers
 
-- **File Path**: `zh-CN/400.guides/400.deploy/600.python-seekdb.md`
+- **File Path**: `official-docs/400.guides/400.deploy/600.python-seekdb.md`
   - **Description**: Python SeekDB deployment
 
-- **File Path**: `zh-CN/400.guides/400.deploy/700.server-mode/100.deploy-by-systemd.md`
+- **File Path**: `official-docs/400.guides/400.deploy/700.server-mode/100.deploy-by-systemd.md`
   - **Description**: Deploy using systemd
 
-- **File Path**: `zh-CN/400.guides/400.deploy/700.server-mode/200.deploy-by-docker.md`
+- **File Path**: `official-docs/400.guides/400.deploy/700.server-mode/200.deploy-by-docker.md`
   - **Description**: Deploy using Docker
 
-- **File Path**: `zh-CN/400.guides/400.deploy/700.server-mode/300.deploy-oceanbase-desktop.md`
+- **File Path**: `official-docs/400.guides/400.deploy/700.server-mode/300.deploy-oceanbase-desktop.md`
   - **Description**: Deploy OceanBase Desktop
 
-- **File Path**: `zh-CN/400.guides/400.deploy/500.environment-and-configuration-checks/`
+- **File Path**: `official-docs/400.guides/400.deploy/500.environment-and-configuration-checks/`
   - **Description**: Environment and configuration check related documentation
 
 ### OBShell
-- **File Path**: `zh-CN/400.guides/1000.obshell/100.obshell-overview.md`
+- **File Path**: `official-docs/400.guides/1000.obshell/100.obshell-overview.md`
   - **Description**: OBShell overview
 
-- **File Path**: `zh-CN/400.guides/1000.obshell/300.obshell-clients/100.agent-commands.md`
+- **File Path**: `official-docs/400.guides/1000.obshell/300.obshell-clients/100.agent-commands.md`
   - **Description**: Agent commands
 
-- **File Path**: `zh-CN/400.guides/1000.obshell/300.obshell-clients/200.seekdb-commands.md`
+- **File Path**: `official-docs/400.guides/1000.obshell/300.obshell-clients/200.seekdb-commands.md`
   - **Description**: SeekDB commands
 
-- **File Path**: `zh-CN/400.guides/1000.obshell/300.obshell-clients/300.utilities-commands.md`
+- **File Path**: `official-docs/400.guides/1000.obshell/300.obshell-clients/300.utilities-commands.md`
   - **Description**: Utility commands
 
-- **File Path**: `zh-CN/400.guides/1000.obshell/350.obshell-dashboard/`
+- **File Path**: `official-docs/400.guides/1000.obshell/350.obshell-dashboard/`
   - **Description**: OBShell Dashboard related documentation
 
-- **File Path**: `zh-CN/400.guides/1000.obshell/900.configure-monitor.md`
+- **File Path**: `official-docs/400.guides/1000.obshell/900.configure-monitor.md`
   - **Description**: Configure monitoring
 
-- **File Path**: `zh-CN/400.guides/1000.obshell/1000.error.md`
+- **File Path**: `official-docs/400.guides/1000.obshell/1000.error.md`
   - **Description**: Error handling
 
 ### Reference Documentation
-- **File Path**: `zh-CN/400.guides/1200.reference/1100.mysql-compatibility.md`
+- **File Path**: `official-docs/400.guides/1200.reference/1100.mysql-compatibility.md`
   - **Description**: MySQL compatibility
 
-- **File Path**: `zh-CN/400.guides/1200.reference/1500.telemetry.md`
+- **File Path**: `official-docs/400.guides/1200.reference/1500.telemetry.md`
   - **Description**: Telemetry functionality
 
 ### Release Notes
-- **File Path**: `zh-CN/400.guides/1300.release-notes/10.v1.0.0.md`
+- **File Path**: `official-docs/400.guides/1300.release-notes/10.v1.0.0.md`
   - **Description**: V1.0.0 release notes
 
 ## Summary
